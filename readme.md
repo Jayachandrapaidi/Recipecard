@@ -41,5 +41,3 @@ Design an **interactive recipe card** where users can view ingredients, steps, a
 - **JavaScript (ES6)** – Interactivity  
 
 ---
-
-## 📂 Project Structure
